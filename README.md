@@ -375,8 +375,10 @@ The test program verifies:
 - Integrity checking (detects corrupted objects)
 
 **📸 Screenshot 1A:** Output of `./test_objects` showing all tests passing.
+<img width="1378" height="228" alt="image" src="https://github.com/user-attachments/assets/49edba91-c641-4c35-9cc1-bbda780906d8" />
 
 **📸 Screenshot 1B:** `find .pes/objects -type f` showing the sharded directory structure.
+<img width="1125" height="154" alt="image" src="https://github.com/user-attachments/assets/30424350-3bb6-4444-85a4-857320f64981" />
 
 ---
 
